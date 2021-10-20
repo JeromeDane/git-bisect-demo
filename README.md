@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# git bisect demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a quick demo/tutorial on `git bisect`, an essential tool
+for any software engineer's belt.
+
+## Getting Started
+
+1. Check out the [Presentation Slides](https://docs.google.com/presentation/d/1kuMkfC-Ir7ejwjdh0sdsfnCtD2RUHykL0V8ndKll4uo/edit?usp=sharing) if you'd like an overview
+2. Clone this repository
+3. Install dependencies with `yarn install`
+4. Start the dev server with `yarn start`
+5. Go to http://localhost:3000/ in your browser if it doesn't open automatically
 
 ## Available Scripts
 
