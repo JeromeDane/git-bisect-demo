@@ -8,7 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>☝️ Check out the cool rotation animation! 💪</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save.{' '}
+          It'll reload automatically through the <em>magic</em> ✨{' '}
+          of hot reloading.
         </p>
         <a
           className="App-link"
