@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>☝️ Check out the cool rotation animation! 💪</p>
+        <p>☝️ Check out the cool rotation logo! 💪</p>
         <p>
           Edit <code>src/App.js</code> and save.{' '}
           It'll reload automatically through the <em>magic</em> ✨{' '}
