@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #000;
+  background: url("./hamsterdance.gif") repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
