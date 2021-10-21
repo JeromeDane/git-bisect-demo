@@ -14,11 +14,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://docs.google.com/presentation/d/1kuMkfC-Ir7ejwjdh0sdsfnCtD2RUHykL0V8ndKll4uo/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          git bisect presentation slides
         </a>
       </header>
     </div>
