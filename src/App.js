@@ -8,11 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>☝️ Check out the cool rotating logo! 💪</p>
         <p>
-          Edit <code>src/App.js</code> and save.{' '}
-          It'll reload automatically through the <em>magic</em> ✨{' '}
-          of hot reloading.
-        </p>
-        <p>
           <a
             className="App-link"
             href="https://docs.google.com/presentation/d/1kuMkfC-Ir7ejwjdh0sdsfnCtD2RUHykL0V8ndKll4uo/edit?usp=sharing"
